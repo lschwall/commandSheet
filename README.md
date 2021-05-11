@@ -1,4 +1,4 @@
-# react_boilerplate
+# Command Cheat Sheet
 ---
 
-- [ ] React Boiler plate files
+Users can check and submit commands for windows or mac
